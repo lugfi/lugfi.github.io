@@ -1,19 +1,26 @@
-# Qué es?
+# Sitio web LUGFI
 
-Este repositorio es el sitio y blog del lugfi, que es hosteado en https://lugfi.github.io
+Repositorio del sitio y blog del LUGFI, que es alojado en
+[https://lugfi.github.io](https://lugfi.github.io).
 
-# Cómo contribuyo?
+## ¿Cómo contribuyo?
 
-1. Clonar el repositorio (usando ssh sería `git clone git@github.com:LUGFi/lugfi.github.io.git`)
-1. Crear una nueva rama (por ejemplo, `git checkout -b miusuario/mipost`)
-1. Realizar los cambios. Por ejemplo, podés agregar un post en la carpeta `_posts`.
-1. Hacer un *push* al repositorio (siguiendo el ejemplo anterior, `git push -u origin miusuario/mipost`)
-1. Crear un *pull request* a través de GitHub
+1. Clonar el repositorio con alguno de los siguiente métodos:
+   * HTTPS: `git clone https://github.com/LUGFi/lugfi.github.io.git`
+   * SSH: `git clone git@github.com:LUGFi/lugfi.github.io.git`
+1. Crear una nueva rama. Por ejemplo, `git checkout -b miusuario/mipost`.
+1. Realizar los cambios. Por ejemplo, agregar un post en la carpeta `_posts`.
+1. Hacer un _push_ al repositorio. Siguiendo el ejemplo anterior,
+   `git push -u origin miusuario/mipost`.
+1. Crear un _pull request_ a través de GitHub.
 
-# Cómo lo pruebo localmente?
+## ¿Cómo lo pruebo localmente?
 
-1. Instalar Ruby en una versión posterior a 2.0. Actualmente usamos 2.3.
-1. Instalar *jekyll* con `gem install jekyll`
-1. En la carpeta del repositorio, correr `jekyll serve`
-1. Acceder a través de localhost:4000
-
+1. Verificar si se encuentra instalado Ruby 2.0.0 o superior con el comando
+   `ruby --version`.
+1. Instalar Bundler con el comando `gem install bundler`.
+   Omitir este paso si ya se encuentra instalado.
+1. Instalar Jekyll y sus dependencias con el comando `bundle install`.
+   Omitir este paso si ya se realizó la instalación previamente.
+1. Correr Jekyll localmente con el comando `bundle exec jekyll serve`.
+1. Ingresar al sitio desde `http://localhost:4000`.
