@@ -16,3 +16,6 @@ github_username:  lugfi
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-mentions
