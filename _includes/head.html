@@ -9,4 +9,14 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  <meta property="og:url" content="{{site.url | append: site.baseurl | append:page.url}}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{page.title}}" />
+  <meta property="og:description" content="{{page.description}}" />
+  <meta property="og:image" content="{{site.sharePreview}}" />
+
+  <meta property="twitter:title" content="{{page.title}}" />
+  <meta property="twitter:description" content="{{page.description}}" />
+  <meta property="twitter:image" content="{{site.sharePreview}}" />
 </head>
