@@ -9,14 +9,15 @@
 title: LUGFI
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "image:"
-  LUGFI usa GNU/Linux en la Facultad de Ingeniería de la UBA.
-image: "/images/logo.png"
+  Grupo de usuarios y desarrolladores de software libre y abierto de
+  la Facultad de Ingeniería de la UBA
+image: "/images/banner-web.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lugfi.github.com" # the base hostname & protocol for your site
 github_username: lugfi
 
 # Build settings
-#markdown: kramdown ·# Default is 'kramdown'.
+markdown: kramdown
 
 gems:
   - jekyll-mentions
