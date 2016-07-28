@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "image:"
   la Facultad de Ingeniería de la UBA
 image: "/images/banner-web.png"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lugfi.github.com" # the base hostname & protocol for your site
+url: "https://lugfi.github.io" # the base hostname & protocol for your site
 github_username: lugfi
 
 # Build settings
