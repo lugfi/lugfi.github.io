@@ -17,12 +17,12 @@
 
   <!-- Open Graph -->
   {% capture og_type %}{% if page.title %}article{% else %}website{% endif %}{% endcapture %}
-  <meta property="og:type" content="{{ og_type }}" />
-  <meta property="og:title" content="{{ page_title }}" />
+  <meta property="og:type" content="{{ og_type }}">
+  <meta property="og:title" content="{{ page_title }}">
   <meta property="og:description" content="{{ page_description }}">
-  <meta property="og:url" content="{{ page_url }}" />
-  <meta property="og:image" content="{{ page_image | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:url" content="{{ page_url }}">
+  <meta property="og:image" content="{{ page_image | prepend: site.baseurl | prepend: site.url }}">
 
   <!-- Twitter Cards -->
-  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:card" content="summary">
 </head>
