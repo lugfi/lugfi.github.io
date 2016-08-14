@@ -13,3 +13,5 @@ El objetivo es difundir y promover el uso de sistemas operativos y herramientas
 libres en la comunidad de la Facultad de Ingeniería, ofrececiendo asistencia a
 los usuarios sobre el uso de las mismas, ya sea por medios digitales como
 también dictando cursos, talleres o realizando otras actividades presenciales.
+
+Nos pueden encontrar en [Facebook](https://www.facebook.com/groups/228033617583220/)  y tambien en [Telegram](https://telegram.me/joinchat/AHsQQT-zSbFrpCbq09ojpw).
