@@ -1,6 +1,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme-color" content="#222222">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% capture page_title %}{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}{% endcapture %}
@@ -10,10 +11,17 @@
 
   <title>{{ page_title }}</title>
   <meta name="description" content="{{ page_description }}">
-
-  <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
+
+  <script src="{{ '/js/jquery.min.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ '/js/bootstrap.min.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ '/js/header.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ '/js/toc.js' | prepend: site.baseurl }}"></script>
+
+  <link rel="stylesheet" href="{{ '/css/bootstrap.min.css' | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ '/css/font-awesome/css/font-awesome.min.css' | prepend: site.baseurl }}">
 
   <!-- Open Graph -->
   {% capture og_type %}{% if page.title %}article{% else %}website{% endif %}{% endcapture %}

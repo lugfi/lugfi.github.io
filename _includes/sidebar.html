@@ -1,0 +1,15 @@
+<div class="sidebar ">
+  <h2>Publicaciones recientes</h2>
+  <ul>
+    {% for post in site.posts limit:5 %}
+    <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="sidebar">
+  <h2>Proyectos</h2>
+  <ul>
+    <li><a href="https://lugfi.github.io/organizador-fiuba/" target="_blank">Organizador FIUBA</a></li>
+  </ul>
+</div>
