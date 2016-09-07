@@ -19,13 +19,13 @@ Buenas gente, despues de una semana de charlas, ahora organizamos una jornada de
 Suerte para ustedes, este sábado 10 de septiembre, LUGFI va a estar haciendo instalaciones de GNU/Linux para todo el que quiera y pueda acercarse
 
 
-** Aula : 303 **  
-** Horario: 10 a 18 **  
-** Fecha: Sabado 10 de Septiembre **  
-** Lugar: FIUBA (Paseo Colón 850) **  
+**Aula : 303**  
+**Horario: 10 a 18**  
+**Fecha: Sabado 10 de Septiembre**  
+**Lugar: FIUBA (Paseo Colón 850)**  
 
 
-Acuérdense de ** hacer Backup **  y de traer el cargador de la notebook.
+Acuérdense de **hacer Backup**  y de traer el cargador de la notebook.
 
 
 ![Flyer](/images/instalaciones-septiembre-2016.png)
