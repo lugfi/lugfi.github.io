@@ -21,4 +21,5 @@ markdown: kramdown
 
 gems:
   - jekyll-mentions
+  - jekyll-sitemap
   - jemoji
