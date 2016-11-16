@@ -27,7 +27,7 @@ Si alguna de las preguntas se contesta afirmativamente, ¡acercate!
 privacidad* (Cristian Baldini)  
 ¿Por qué es importante el uso de las redes libres? conocé los motivos e ideas que impulsaron la creación del primer nodo argentino de la red social Diaspora*, sus características y las diferencias respecto a las redes sociales tradicionales.
 
-**Horario a confirmar** - *Exprimiendo C++11 ¿Jugo de rust?* (Matias Lafroce y Martin DiPaola)
+**Horario a confirmar** - *Exprimiendo C++11 ¿Jugo de rust?* (Matias Lafroce y Martin DiPaola)  
 Una charla sobre algunos feats de C++11 y cómo se implementan en el lenguaje Rust, ¿Será el sucesor de C++?.
 
 ¡Los esperamos!
