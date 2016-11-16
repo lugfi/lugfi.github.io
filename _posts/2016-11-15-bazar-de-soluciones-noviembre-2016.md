@@ -5,7 +5,7 @@ description: Una jornada de instalaciones de GNU/Linux en la FIUBA
 tags: bazar soluciones cafelug usla
 ---
 
-Luego del FLISOL u otra jornada de instalación de GNU/Linux (como la que
+Luego del FLISOL y otra jornada de instalación de GNU/Linux (como la que
 realizó LUGFI) se realiza el Bazar de soluciones donde se ofrece ayuda a los
 problemas que hayan surgido en el día a dia.
 
@@ -17,7 +17,7 @@ Este es el primer Bazar de soluciones de CAFELUG con participación de LUGFI.
 
 Si alguna de las preguntas se contesta afirmativamente, ¡acercate!
 
-**Aula: 303**  
+**Aula: 304**  
 **Horario: 14 a 18 hs**  
 **Fecha: Sabado 19 de Noviembre**  
 **Lugar: FIUBA (Paseo Colón 850)**
