@@ -12,4 +12,4 @@ e [Ivan Barrera Oro](http://ivan.barreraoro.com.ar/vot-ar-una-mala-eleccion/).
 
 ¡Los esperamos el viernes 28 en el Salón de Consejo Directivo a las 19 horas!
 
-![Volo electrónico en debate](/images/voto-electronico-en-debate-2016.png)
+![Volo electrónico en debate](/images/eventos/voto-electronico-en-debate-2016.png)
