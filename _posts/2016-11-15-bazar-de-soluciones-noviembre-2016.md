@@ -17,10 +17,9 @@ Este es el primer Bazar de soluciones de CAFELUG con participación de LUGFI.
 
 Si alguna de las preguntas se contesta afirmativamente, ¡acercate!
 
-**Aula: 304**  
 **Horario: 14 a 18 hs**  
 **Fecha: Sabado 19 de Noviembre**  
-**Lugar: FIUBA (Paseo Colón 850)**
+**Lugar: Ekospace (Bolivar 238)**
 
 ## Charlas (confirmadas)
 **15 hs** - *Diaspora Argentina: 2 años de libertad, descentralización y
@@ -32,4 +31,4 @@ Una charla sobre algunos feats de C++11 y cómo se implementan en el lenguaje Ru
 
 ¡Los esperamos!
 
-![Flyer](/images/eventos/bazar-noviembre-2016.png)
+
