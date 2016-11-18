@@ -29,6 +29,9 @@ privacidad* (Cristian Baldini)
 **Horario a confirmar** - *Exprimiendo C++11 ¿Jugo de rust?* (Matias Lafroce y Martin DiPaola)  
 Una charla sobre algunos feats de C++11 y cómo se implementan en el lenguaje Rust, ¿Será el sucesor de C++?.
 
+![Flyer](/images/eventos/bazar-noviembre-2016.png)
+
+
 ¡Los esperamos!
 
 
