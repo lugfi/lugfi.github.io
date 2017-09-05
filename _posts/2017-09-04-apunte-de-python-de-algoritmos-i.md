@@ -2,7 +2,7 @@
 layout: post
 title:  "Apunte de Python de Algoritmos I"
 author: tinchou
-date:   2016-06-22 21:08:57 -0300
+date:   2017-09-04 21:08:57 -0300
 <!-- categories: python,algoritmos -->
 ---
 Como primer aporte al grupo, me gustaría dejarles un link al [apunte][apunte-pdf]
