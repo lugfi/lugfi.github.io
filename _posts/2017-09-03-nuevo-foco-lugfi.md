@@ -11,12 +11,12 @@ Cuando nos planteamos revivir LUGFI el cuatrimestre antepasado, nunca pensamos q
 copar tanto ni que nos iba a plantear tantas dificultades, vamos a tratar de explicar lo mas detallado que podamos
 
 
-#### Que es un LUG (Linux User Group)?
+#### ¿Que es un LUG (Linux User Group)?
 
 Es un grupo de personas, sin fines de lucro, que tienen por objetivo brindar soporte y capacitar a
 usuarios de sistemas GNU/Linux.
 
-#### En esencia, que hace un LUG?
+#### ¿En esencia, que hace un LUG?
 
 Tiene como objetivos principales, entre otros
 
@@ -53,14 +53,14 @@ El primer cuatrimestre fue bastante fructífero, se pudo organizar varias charla
 En Github también hubo bastante movimiento, entre otras cosas
 
 *   Franco Spada decidió poner el [repositorio](https://github.com/lugfi/organizador-fiuba) del [Organizador de Materias FIUBA](https://lugfi.github.io/organizador-fiuba/) en el Github de LUGFI.
-*   Se recupero lo que se pudo del [sitio viejo de LUGFI](https://lugfi.github.io/lugfi-classic/) de [Wayback Machine](https://archive.org/web/).
-*   Se creo la pagina [web principal de LUGFI](https://lugfi.github.io/) usando [Github Pages](https://pages.github.com/).
+*   Se recuperó lo que se pudo del [sitio viejo de LUGFI](https://lugfi.github.io/lugfi-classic/) de [Wayback Machine](https://archive.org/web/).
+*   Se creó la página [web principal de LUGFI](https://lugfi.github.io/) usando [Github Pages](https://pages.github.com/).
 
 
 
 ##### Segundo Cuatrimestre
 
-Acá es cuando se vio una merma en la participación, cuando se trato de organizar una reunión, no hubo mas de 3
+Acá es cuando se vío una merma en la participación, cuando se trató de organizar una reunión, no hubo más de 3
 personas que confirmaron asistencia.
 
 Esto, en consecuencia, genero una disminución de actividades realizadas por LUGFI en el segundo cuatrimestre del 2016.
@@ -74,15 +74,15 @@ Mucha gente se unió a las distintos grupos y se registraron en el foro, por aho
 *   Twitter: 167 followers.  
 
 
-#### Cual es el problema?
+#### ¿Cual es el problema?
 
-Desde el comienzo se trato de mantener una filosofía y modo de trabajo mas "clásico", por decirlo de cierta manera, en LUGFI.
+Desde el comienzo se trató de mantener una filosofía y modo de trabajo más "clásico", por decirlo de cierta manera, en LUGFI.
 
-Que quiere decir esto? Se quiso copiar el esquema de eventos y charlas, como seria en un LUG clásico.
+Que quiere decir esto? Se quiso copiar el esquema de eventos y charlas, como sería en un LUG clásico.
 
 Nos dimos cuenta que esto no estaba funcionando, pocos asistentes a las charlas, poca participación en general en las reuniones, etc.
 
-Después de pensar un tiempo sobre eso, tenemos un par de razones por las cuales capaz no funciono el esquema clásico
+Después de pensar un tiempo sobre eso, tenemos un par de razones por las cuales capaz no funcionó el esquema clásico
 
 *   **La cursada consume mucho tiempo:** no es ningún secreto que la FIUBA consume mucho tiempo, depende de como arme uno su cuatrimestre, puede terminar con solo los fines de semana libres, o a veces, ni eso.
 *   **El esquema de trabajo "clásico" no atrae a estudiantes:** es otra posibilidad, la que mas tuve en cuenta para realizar este cambio de foco, capaz el esquema de charlas y eventos no es el que mas copa a los estudiantes en general.
@@ -130,10 +130,10 @@ Aunque en cuatrimestres anteriores, no era el foco, LUGFI tenia ciertos proyecto
 *   **Descripción:** En vista que las opiniones están esparcidas entre Foros Fiuba y Facebook (varios grupos), se pensó una plataforma donde los alumnos puedan dar opiniones sobre docentes y cursos de las materias dictadas en la FIUBA, todo esto de manera anónima.
 
 
-Creemos que este nuevo rumbo va a traer actividad de nuevo al grupo, muchos estudiantes les gustaría participar en proyectos OSS en un ambiente amigable (con otros estudiantes de la facultad, por ejemplo), ademas de ganar experiencia programando y tener un buen portafolio de código para poder mostrar a futuros empleadores.
+Creemos que este nuevo rumbo va a traer actividad de nuevo al grupo, muchos estudiantes les gustaría participar en proyectos [OSS](https://es.wikipedia.org/wiki/Software_de_c%C3%B3digo_abierto) en un ambiente amigable (con otros estudiantes de la facultad, por ejemplo), ademas de ganar experiencia programando y tener un buen portafolio de código para poder mostrar a futuros empleadores.
 
 
-Si tienen otro proyecto en mente, siéntanse libres de proponerlo, así se va sumando proyectos a la familia LUGFI, si quieren ser lideres de algún proyecto sin líder, no duden en proponerse, en el post auto-generado del foro vamos a dar vías de comunicación con los lideres de cada proyecto, así se comunican y van adhiriéndose a los teams.
+Si tienen otro proyecto en mente, siéntanse libres de proponerlo, así se va sumando proyectos a la familia LUGFI, si quieren ser lideres de algún proyecto sin líder, no duden en proponerse, en el post auto-generado del foro vamos a dar vías de comunicación con los líderes de cada proyecto, así se comunican y van adhiriéndose a los teams.
 
 Como siempre, todo comentario, sugerencia y contribución a la organización es bienvenido.
 
