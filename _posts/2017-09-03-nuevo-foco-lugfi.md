@@ -2,6 +2,8 @@
 layout: post
 title: Nuevo Foco LUGFI
 description: Nuevo foco de LUGFI
+authors: alexdaciuk
+date: 05-09-2017 
 tags: lugfi programacion proyectos
 ---
 
@@ -137,6 +139,6 @@ Si tienen otro proyecto en mente, siéntanse libres de proponerlo, así se va su
 
 Como siempre, todo comentario, sugerencia y contribución a la organización es bienvenido.
 
-Saludos!
+Saludos Alex
 
 
