@@ -39,13 +39,13 @@ Crear una cuenta de [Twitter](https://twitter.com/LUGFI_Oficial), una
                     [pagina de Facebook](https://www.facebook.com/groups/lugfi/), un 
                     [foro](https://foro.lug.fi.uba.ar/), un 
                     [grupo de Telegram](https://telegram.me/joinchat/AHsQQT-zSbFrpCbq09ojpw) y una 
-                    [organizacion en Github](https://github.com/lugfi).
+                    [organización en Github](https://github.com/lugfi).
 
 El primer cuatrimestre fue bastante fructífero, se pudo organizar varias charlas y eventos,
 
 *   La ["Semana de Charlas LUGFI"](https://lugfi.github.io/2016/08/16/semana-lugfi-2016.html).
 *   El [Install Fest](https://lugfi.github.io/2016/09/07/dia-instalaciones-septiembre-2016.html).
-*   Charla debate sobre el [Voto Electronico](https://lugfi.github.io/2016/10/24/voto-electronico-en-debate.html) con invitados de alto nivel y conocimiento del tema.
+*   Charla debate sobre el [Voto Electrónico](https://lugfi.github.io/2016/10/24/voto-electronico-en-debate.html) con invitados de alto nivel y conocimiento del tema.
 *   El [Bazar de Soluciones de Noviembre](https://lugfi.github.io/2016/11/15/bazar-de-soluciones-noviembre-2016.html) en conjunto con CaFeLUG donde Matias Lafroce y Martin Di Paola dieron una [charla sobre Rust](https://www.youtube.com/watch?v=LvH3mlEdwKM).
 *   La charla sobre [Sistemas Distribuidos](https://lugfi.github.io/2016/11/25/sistemas-distribuidos-en-la-industria.html), a cargo de un ex alumno de la FIUBA que trabaja para Amazon.    
 
