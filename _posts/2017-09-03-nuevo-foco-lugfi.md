@@ -7,8 +7,8 @@ tags: lugfi programacion proyectos
 
 Buenas gente!  
 
-Cuando me plantearon revivir LUGFI el cuatrimestre antepasado, nunca pense que iba a ser algo que me iba a
-copar tanto ni que me iba a plantear tantas dificultades, voy a tratar de explicar lo mas detallado que pueda todo este tema
+Cuando nos planteamos revivir LUGFI el cuatrimestre antepasado, nunca pensamos que iba a ser algo que nos iba a
+copar tanto ni que nos iba a plantear tantas dificultades, vamos a tratar de explicar lo mas detallado que podamos
 
 
 #### Que es un LUG (Linux User Group)?
@@ -18,12 +18,22 @@ usuarios de sistemas GNU/Linux.
 
 #### En esencia, que hace un LUG?
 
-Principalmente organiza eventos, ya sean charlas, install fests, capacitaciones, en latinoamerica en especial tenes cosas como el Flisol, CaFeLUG en años anteriores organizaba algo llamado CaFeConf.
+Tiene como objetivos principales, entre otros
+
+*   **Difusion:**  Juega un indispensable rol en promover el uso de GNU/Linux, en nuestro caso, personal y academicamente.
+*   **Educacion:** Esta entre las actividades de un LUG, hacer cursos de capacitacion para sus integrantes, asi ayudandolos en su desarrollo profesional y personal.
+*   **Soporte:** Para poder sobrellevar la curva de aprendizaje de un sistema GNU/Linux, un LUG cuenta con canales de soporte para ayudar a sus integrantes menos experimentados.
+*   **Socializacion:** Compartir experiencias, formando amistades y generando respeto mutuo.
+
+
+#### Actividades de un LUG
+
+Las dos maneras básicas que un LUG puede realizar las funciones descritas anteriormente son: primero efectuar reuniones en un espacio físico y segundo comunicarse de forma online.
 
 #### Que se hizo hasta ahora
 ##### Primer cuatrimestre
 
-Se organizaron varias reuniones, cada una con su minuta publicada en la pagina de LUGFI, de las cuales se puede encontrar las minutas en la pagina de LUGFI, en esas reuniones, entre otras cosas, se decidio,
+Se organizaron varias reuniones, cada una con su minuta, las cuales se puede encontrar en la pagina de LUGFI, en esas reuniones, entre otras cosas, se decidio,
 
 Crear una cuenta de [Twitter](https://twitter.com/LUGFI_Oficial), una 
                     [pagina de Facebook](https://www.facebook.com/groups/lugfi/), un 
@@ -50,29 +60,29 @@ En Github tambien hubo bastante movimiento, entre otras cosas
 
 ##### Segundo Cuatrimestre
 
-Aca es cuando se vio una merma en la participacion de la gente, cuando se trato de organizar una reunion, no hubo mas de 3
-anotados al dudle.
+Aca es cuando se vio una merma en la participacion, cuando se trato de organizar una reunion, no hubo mas de 3
+personas que confirmaron asistencia.
 
-Esto personalmente me molesto un poco, tratar de sacar una organizacion de este tipo no lo puede hacer solo una persona, asi que deje un poco de lado LUGFI el primer cuatrimestre.
+Esto, en consecuencia, genero una disminucion de actividades realizadas por LUGFI en el segundo cuatrimestre del 2016.
 
 
 Mucha gente se unio a las distintos grupos y se registraron en el foro, por ahora tenemos,
 
-*   Grupo de Facebook: 289 personas.
+*   Grupo de Facebook: 274 personas.
 *   Foro: 44 personas.
-*   Grupo de Telegram: 51 personas.
-*   Twitter: 151 followers.  
+*   Grupo de Telegram: 53 personas.
+*   Twitter: 167 followers.  
 
 
 #### Cual es el problema?
 
-Desde el comienzo trate de mantener una filosofia y modo de trabajo mas "clasico", por decirlo de cierta manera, en LUGFI.
+Desde el comienzo se trato de mantener una filosofia y modo de trabajo mas "clasico", por decirlo de cierta manera, en LUGFI.
 
-Que quiero decir con eso? Quise copiar en parte, el esquema de eventos y charlas, como seria en un LUG clasico.
+Que quiere decir esto? Se quiso copiar el esquema de eventos y charlas, como seria en un LUG clasico.
 
-Me di cuenta que esto no estaba funcionando, pocos asistentes a las charlas, poca participacion en general en las reuniones, etc.
+Nos dimos cuenta que esto no estaba funcionando, pocos asistentes a las charlas, poca participacion en general en las reuniones, etc.
 
-Despues de pensar un tiempo sobre eso, tengo un par de razones por las cuales capaz no funciono el esquema clasico
+Despues de pensar un tiempo sobre eso, tenemos un par de razones por las cuales capaz no funciono el esquema clasico
 
 *   **La cursada consume mucho tiempo:** no es ningun secreto que la FIUBA consume mucho tiempo, depende de como arme uno su cuatrimestre, puede terminar con solo los fines de semana libres, o a veces, ni eso.
 *   **El esquema de trabajo "clasico" no atrae a estudiantes:** es otra posibilidad, la que mas tuve en cuenta para realizar este cambio de foco, capaz el esquema de charlas y eventos no es el que mas copa a los estudiantes en general.
@@ -82,12 +92,12 @@ Despues de pensar un tiempo sobre eso, tengo un par de razones por las cuales ca
 
 #### Nuevo enfoque
 
-Con la idea de reflotar la actividad de LUGFI, les planteo un nuevo enfoque, en vez de usar el esquema clasico de charlas y eventos, propongo que la actividad principal de LUGFI de ahora en mas, sea llevar adelante proyectos de Software Libre.
+Con la idea de reflotar la actividad de LUGFI, planteamos un nuevo enfoque, en vez de usar el esquema clasico de charlas y eventos, queremos que la actividad principal de LUGFI de ahora en mas, sea llevar adelante proyectos de Software Libre.
 
 
 #### Idea preliminar
 
-Mi idea es la siguiente, tener equipos que se encarguen de los proyectos, los proyectos en general apuntarian a ser utiles para la organizacion o el estudiantado en general.
+La idea es la siguiente, tener equipos que se encarguen de los proyectos, los proyectos en general apuntarian a ser utiles para la organizacion o el estudiantado en general.
 
 #### Equipos
 
@@ -112,11 +122,20 @@ Aunque en cuatrimestres anteriores, no era el foco, LUGFI tenia ciertos proyecto
 *   **Descripcion:**  Doodle es una aplicacion web para organizar reuniones o votaciones en general, al no tener el codigo liberado ni haber alternativas libres que esten a la altura, decidimos desarrollar uno.
 
 
-Creo que este nuevo rumbo va a traer actividad de nuevo al grupo.
+#### Proyectos sin lider
 
-Que les parece? Les interesa la idea? Todo comentario y sugerencia es bievenido, en el post autogenerado del foro voy a dar vias de comunicacion con los lideres de cada proyecto, asi se comunican y van adhiriendose a los teams.
+##### Plataforma de Opiniones de Cursos FIUBA
 
-Si tienen otro proyecto en mente, sientase libres de proponerlo, asi se va sumando gente al grupo
+*   **Lenguaje:** A definir
+*   **Descripcion:** En vista que las opiniones estan esparcidas entre Foros Fiuba y Facebook (varios grupos), se penso una plataforma donde los alumnos puedan dar opiniones sobre docentes y cursos de las materias dictadas en la FIUBA, todo esto de manera anonima.
+
+
+Creemos que este nuevo rumbo va a traer actividad de nuevo al grupo, muchos estudiantes les gustaria participar en proyectos OSS en un ambiente amigable (con otros estudiantes de la facultad, por ejemplo), ademas de ganar experiencia programando y tener un buen portfolio de codigo para poder mostrar a futuros empleadores.
+
+
+Si tienen otro proyecto en mente, sientase libres de proponerlo, asi se va sumando proyectos a la familia LUGFI, si quieren ser lideres de algun proyecto sin lider, no duden en proponerse, en el post autogenerado del foro vamos a dar vias de comunicacion con los lideres de cada proyecto, asi se comunican y van adhiriendose a los teams.
+
+Como siempre, todo comentario, sugerencia y contribucion a la organizacion es bienvenido.
 
 Saludos!
 
