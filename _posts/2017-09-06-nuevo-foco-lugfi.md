@@ -2,8 +2,7 @@
 layout: post
 title: Nuevo Foco LUGFI
 description: Nuevo foco de LUGFI
-authors: alexdaciuk
-date: 05-09-2017 
+authors: alexdaciuk 
 tags: lugfi programacion proyectos
 ---
 
