@@ -2,8 +2,7 @@
 layout: post
 title:  "Apunte de Python de Algoritmos I"
 author: tinchou
-date:   2017-09-04 21:08:57 -0300
-<!-- categories: python,algoritmos -->
+categories: python,algoritmos
 ---
 Como primer aporte al grupo, me gustaría dejarles un link al [apunte][apunte-pdf]
 de Algoritmos I de la cátedra Wachenchauzer. Desde el comienzo de la cátedra, el apunte
