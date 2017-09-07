@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Activar spellcheck en Atom 
-description: Guia de como activar el spellcheck en Atom en sistemas GNU/Linux
+description: Guía de como activar el spellcheck en Atom en sistemas GNU/Linux
 authors: alexdaciuk 
 tags: lugfi programacion 
 ---
 
-Hace unos días estuve escribiendo un post para la pagina de LUGFI y en las revisiones lo que mas me marcaban era la falta de tildes, acepto que nunca las aprendí a poner, así que me puse en campaña para hacer funcionar el spellchecker de Atom.
+Hace unos días estuve escribiendo un post para la página de LUGFI y en las revisiones lo que más me marcaban era la falta de tildes, acepto que nunca las aprendí a poner, así que me puse en campaña para hacer funcionar el spellchecker de Atom.
+ 
+`Todo el software usado en esta guía es Open Source`
  
 ### Spellchecker en Atom
 
