@@ -6,7 +6,7 @@ authors: tinchou
 tags: lugfi unix seguridad
 ---
 
-# Claves, `dotfiles` y yubikeys
+# Claves, dotfiles y yubikeys
 
 ## Motivación
 
@@ -26,14 +26,26 @@ Estando estas claves encriptadas, es posible almacenarlas en cualquier repositor
 
 Es en este punto donde la tarea de los `dotfiles` cobra sentido. El programa `pass` almacena las claves en una carpeta en `$HOME` llamada `.password-store`. Siguiendo un sencillo [ejemplo de cómo usar GNU Stow][tuto-stow] creé mi repositorio de `dotfiles`, moví allí mis claves encriptadas, y estoy listo para comenzar a generar contraseñas seguras y almacenarlas _bajo llave_. Una explicación más detallada sobre `dotfiles` también queda, lamentablemente, para un futuro post.
 
-## Siguientes pasos
+## Android
 
-Lo próximo que querría lograr es tener acceso a mis claves en mi teléfono Android. Gracias a la encriptación de las claves usando GPG (más allá de estar también el teléfono encriptado), no es problema tener en él una copia del repositorio.
+Cuando escribí la primera versión de este post, en un frenesí de hacer más seguro mi almacenamiento de contraseñas, creí que había perdido la habilidad de sincronizarlas y acceder a ellas desde mi teléfono Android. 
 
-Si tuviera una Yubikey moderna (con NFC), el problema sería trivial ya que existe el software adecuado. Hice pruebas conectándola al puerto USB-C sin éxito, pero es posible que sea cuestión de encontrar la app que tenga soporte. Parece que [Yubico Authenticator][auth] ya estuvo trabajando en esto, y por lo tanto es posible. Imagino que voy a abrir un _issue_ en [OpenKeyChain][okc] para solicitar soporte, pero incluso en el peor de los casos sé que podría hacerlo yo mismo gracias a que ambas apps son Software Libre.
+Si tuviera una Yubikey moderna (con NFC), ni habría dudado. Múltiples apps como [Yubico Authenticator][auth] o [OpenKeyChain][okc] afirman tener soporte para esto, pero ninguna hace explícita mención de soporte para conexiones USB (protocolo USB OTG, presente en muchos teléfonos). Revisando reportes en repositorios Github y haciendo pruebas, finalmente lo conseguí! Uno puede usar [Password Store][pass-store] para sincronizar el repositorio de claves, elegir OpenKeyChain como agente de autenticación, y habiendo configurado la Yubikey desencriptar las claves de forma transparente.
+
+## En resumen
+
+1. Guardamos las claves encriptadas con GPG en un repositorio Git
+1. Para comunicarnos con la Yubikey y desencriptar las claves usamos:
+    1. `gpg2` en Linux
+    1. `OpenKeyChain` en Android
+1. Para acceder al repositorio de claves de forma amigable usamos:
+    1. `pass` en Linux
+    1. `Password Store` en Android
+1. Además, se necesita un adaptador USB para el teléfono (en mi caso USB-A a USB-C) en caso de no tener hardware con NFC
 
 
 [pass]: https://www.passwordstore.org/
 [tuto-stow]: http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html
 [auth]: https://github.com/Yubico/yubioath-android/issues/30
 [okc]: https://www.openkeychain.org/
+[pass-store]: https://github.com/zeapo/Android-Password-Store
