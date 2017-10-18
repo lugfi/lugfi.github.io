@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% for post in site.posts limit:10 %}
+{% for post in paginator.posts %}
   <h2 class="post-title">
     <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
   </h2>
@@ -23,3 +23,13 @@ layout: page
     <p>{{ post.excerpt }}</p>
   </div>
 {% endfor %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Página anterior</a>
+  {% endif %}
+  <span class="page_number ">Página: {{ paginator.page }} de {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Página siguiente</a>
+  {% endif %}
+</div>
