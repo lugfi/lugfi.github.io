@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Flasheando firmware customs a routers para agregar funcionalidades y mejorar seguridad.
+title: Preocupado por KRACK? Pros y contras de firmware customs en routers hogareños y mini howto.
 description: Guía básica de porque y como flashear firmware customs a routers hogareños.
 authors: alexdaciuk
-tags: lugfi unix seguridad
+tags: krack routers unix seguridad
 ---
 
-# Flasheando firmware customs a routers para agregar funcionalidades y mejorar seguridad.
+# Preocupado por KRACK? Pros y contras de firmware customs en routers hogareños y mini howto install.
 
 
 ## El problema con los routers hogareños
 
-Siendo 2017, quien mas quien menos, tiene internet en su casa (ya sea un hermoso enlace de fibra o un horrendo ADSL). Para hacer la vida mas fácil de los usuarios, siempre entregan un router en situación de comodato. Esto tiene sus pros y sus contras.
+Siendo 2017, quien más quien menos, tiene internet en su casa (ya sea un hermoso enlace de fibra o un horrendo ADSL). Para hacer la vida mas fácil de los usuarios, siempre entregan un router en situación de comodato. Esto tiene sus pros y sus contras.
 
 
 **Pros:**
@@ -22,12 +22,12 @@ Siendo 2017, quien mas quien menos, tiene internet en su casa (ya sea un hermoso
 
 -   El ISP se asegura de que los equipos entregados sean "totalmente compatibles" con el servicio.
 
--   Al usar hardware proveído por el ISP es mas fácil obtener soporte técnico. No van a venir con la excusa de "el router que tenés no es totalmente compatible con el servicio".
+-   Al usar hardware provisto por el ISP es más fácil obtener soporte técnico. No van a venir con la excusa de "el router que tenés no es totalmente compatible con el servicio".
 
 
 **Contras:**
 
--   Normalmente el hardware proveído por el ISP es de mala calidad o segunda mano (compran el de la licitación mas barata, suerte con tu router ChunLang).
+-   Normalmente el hardware provisto por el ISP es de mala calidad o segunda mano (compran el de la licitación mas barata, suerte con tu router ChunLang).
 
 -   Aunque estén en comodato, el router tiene un cierto tiempo de garantía. Al pasar ese tiempo, cualquier recambio, ya sea por desgaste u otra razón, corre a bolsillo del usuario.
 
@@ -35,7 +35,7 @@ Siendo 2017, quien mas quien menos, tiene internet en su casa (ya sea un hermoso
 
 -   Al ser routers que compran de oferta a China, no siempre tienen la ultima tecnología, llámese, WiFi AC o soporte para la banda de 5 GHz, entre otras cosas.
 
--   Mala configuración por defecto: muchos routers vienen configurados con mala seguridad WiFi (WEP o WPA), DNS (del ISP, que todos sabemos que apestan).
+-   Mala configuración por defecto: muchos routers vienen configurados con contraseñas débiles para el acceso al router o para el WiFi (WEP o WPA), malos DNS por defecto.
 
 -   Nulas actualizaciones: muchas veces estos routers viene con firmwares personalizados por el ISP, que no suelen sacar actualizaciones de esa personalización y, en muchos casos, inclusive bloqueando la posibilidad de reemplazarlo con el firmware oficial.
 
@@ -80,7 +80,7 @@ Casi todos los fimrwares tienen una lista de hardware soportado
 **Notas**
 
 -   **Asuswrt-Merlin** es un firmware custom basado en el firmware original de Asus (Asuswrt), así que no tiene muchos cambios radicales ni nuevas features.
--   **LEDE** sucesor de **OpenWRT**, activamente desarrollado y con actualizaciones constantes, es el más recomendado de la lista
+-   **LEDE** sucesor de **OpenWRT**, activamente desarrollado y con actualizaciones constantes, es el más recomendado de la lista.
 -   **DD-WRT** el precursor de todos los firmwares custom, no muy actualizado, aunque soporta routers viejos con menos de 4 MB de ROM.
 
 
@@ -88,7 +88,7 @@ Casi todos los fimrwares tienen una lista de hardware soportado
 
 -   Primero que nada **cambiar el firmware del fabricante invalida tu garantía**, aunque reinstalando el firmware original, no creo que tengas problemas para reclamar garantía en cualquier caso.
 
--   Como todo firmware no oficial, puede traer problemas de estabilidad, aunque en mis años de usar DD-WRT, OpenWRT y LEDE, no tuve mayores problemas
+-   Como todo firmware no oficial, puede traer problemas de estabilidad, aunque en mis años de usar DD-WRT, OpenWRT y LEDE, no tuve mayores problemas.
 
 -   Al tener más funcionalidad y capacidad de personalización, requiere un poco mas de conocimiento técnico, aunque, si alguna vez configuraste un router comercial, no es nada del otro mundo. Ademas hay miles de tutoriales sobre como configurar estas cosas.
 
@@ -127,7 +127,7 @@ Al ser un firmware original modificado, el método de flasheo es mediante la int
 **Mas informacion :** <https://github.com/RMerl/asuswrt-merlin/wiki/Installation>
 
 
-## Ya instale, ahora que?
+## Ya instalé, ahora qué?
 
 Ahora, frente a toda la flexibilidad que estos firmwares ofrecen, uno puede sentirse perdido, sin saber que hacer. Cada firmware tiene una wiki bastante completa sobre las posibilidades que ofrecen. Pasarse por ahí suele ser buena opción.
 
