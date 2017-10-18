@@ -19,8 +19,10 @@ github_username: lugfi
 
 # Build settings
 markdown: kramdown
+paginate: 10
 
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jemoji
+  - jekyll-paginate
