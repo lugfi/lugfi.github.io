@@ -6,9 +6,6 @@ authors: alexdaciuk
 tags: krack routers unix seguridad
 ---
 
-# Preocupado por KRACK? Mejorando seguridad en router hogareños con custom frimwares, pros y contras y mini howto install.
-
-
 ## El problema con los routers hogareños
 
 Siendo 2017, quien más quien menos, tiene internet en su casa (ya sea un hermoso enlace de fibra o un horrendo ADSL). Para hacer la vida mas fácil de los usuarios, siempre entregan un router en situación de comodato. Esto tiene sus pros y sus contras.
