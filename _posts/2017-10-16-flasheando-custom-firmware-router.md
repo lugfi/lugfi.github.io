@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Preocupado por KRACK? Pros y contras de firmware customs en routers hogareños y mini howto.
+title: Preocupado por KRACK? Mejorando seguridad en router hogareños con custom frimwares, pros y contras y mini howto install.
 description: Guía básica de porque y como flashear firmware customs a routers hogareños.
 authors: alexdaciuk
 tags: krack routers unix seguridad
 ---
 
-# Preocupado por KRACK? Pros y contras de firmware customs en routers hogareños y mini howto install.
+# Preocupado por KRACK? Mejorando seguridad en router hogareños con custom frimwares, pros y contras y mini howto install.
 
 
 ## El problema con los routers hogareños
