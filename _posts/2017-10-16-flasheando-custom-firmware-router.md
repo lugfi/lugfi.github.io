@@ -46,7 +46,7 @@ Siendo 2017, quien mas quien menos, tiene internet en su casa (ya sea un hermoso
 
 Teniendo en cuenta que por estos aparatos viaja toda nuestra información digital (ya sean contraseñas, números de tarjetas de crédito, etc), cualquiera en su sano juicio querría que estos aparatos estén con software actualizado con la menor cantidad de bugs de seguridad posibles.
 
-Cualquiera que haya entrado a la interfaz "avanzada" de cualquier router comercial, puede ver que corren software bastante desactualizado. Sin ir mas lejos, el ISP Telecentro, en 2016 entregaba [estos routers](http://uploads.tapatalk-cdn.com/20170124/1a86a430f5239d933726444229d0c648.jpg), que corrían kernel 2.6.35, en pleno 2016.
+Cualquiera que haya entrado a la interfaz "avanzada" de cualquier router comercial, puede ver que corren software bastante desactualizado. Sin ir más lejos, el ISP Telecentro, en 2016 entregaba [estos routers](http://uploads.tapatalk-cdn.com/20170124/1a86a430f5239d933726444229d0c648.jpg), que corrían kernel 2.6.35, en pleno 2016.
 
 La mayoría de los routers (por no decir el 100 %), no reciben actualizaciones, ya sea porque el fabricante esta muy ocupado sacando más productos de los que podría mantener o directamente no le interesa.
 
