@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Apunte de Python de Algoritmos I"
-author: tinchou
+author: colltoaction
 categories: python,algoritmos
 ---
 Como primer aporte al grupo, me gustaría dejarles un link al [apunte][apunte-pdf]
